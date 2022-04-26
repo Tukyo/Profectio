@@ -6,12 +6,3 @@
 > 
 > - departure
 > - journey
-
-| Case       | Singular     | Plural         |
-| ---------- | ------------ | -------------- |
-| Nominative | profectiō    | profectiōnēs   |
-| Genitive   | profectiōnis | profectiōnum   |
-| Dative     | profectiōnī  | profectiōnibus |
-| Accusative | profectiōnem | profectiōnēs   |
-| Ablative   | profectiōne  | profectiōnibus |
-| Vocative   | profectiō    | profectiōnēs   |
