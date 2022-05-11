@@ -9,13 +9,12 @@ Profectio is a project by Tukyo and Bunta to release a full length album with in
 ![](/images/compilation.png)
 
 Fundamentals
-
-> Deaus - God
-> Inanis- Void created by Deaus
-> Cirra - Land
-> Ciraelians - People of the Land (Circles)
-> King Snapi - King of Cirra and Ruler of the Ciraelians
-> Cordova - Capitol City (Throne of Corrus resides here)
+> - Deaus - God
+> - Inanis- Void created by Deaus
+> - Cirra - Land
+> - Ciraelians - People of the Land (Circles)
+> - King Snapi - King of Cirra and Ruler of the Ciraelians
+> - Cordova - Capitol City (Throne of Corrus resides here)
 
 
 **The Five Figureheads**
