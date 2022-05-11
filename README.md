@@ -20,25 +20,20 @@ Cordova - Capitol City (Throne of Corrus resides here)
 
 **The Five Figureheads**
 
-Maelynoch
+| Maelynoch
+> - First Ciraelian to be blessed with sight, vision into nothing, is nothing without light
 
-First Ciraelian to be blessed with sight, vision into nothing, is nothing without light
+| Kratis
+> - His light grew dim but not his will, however, light is a source of purity and by this story's end, his light was vanquished
 
-Kratis
+| Wynona
+> - Breathed air into the winds, and from which came the world's dependency on air
 
-His light grew dim but not his will, however, light is a source of purity and by this story's end, his light was vanquished
+| Glorian
+> - Strength was needed for the Ciraelians to build and endure, Glorian would be the one to make sure this attribute was passed on and learned by the people of Cirra 
 
-Wynona
-
-Breathed air into the winds, and from which came the world's dependency on air
-
-Glorian
-
-Strength was needed for the Ciraelians to build and endure, Glorian would be the one to make sure this attribute was passed on and learned by the people of Cirra 
-
-Hyatti
-
-Celebration is at the core of culture, and there is always a curator for any celebration, of which Hyatti was in charge
+| Hyatti
+> - Celebration is at the core of culture, and there is always a curator for any celebration, of which Hyatti was in charge
 
 
 **Introduction**
