@@ -19,23 +19,30 @@ Cordova - Capitol City (Throne of Corrus resides here)
 
 
 **The Five Figureheads**
+
 Maelynoch
+
 First Ciraelian to be blessed with sight, vision into nothing, is nothing without light
 
 Kratis
+
 His light grew dim but not his will, however, light is a source of purity and by this story's end, his light was vanquished
 
 Wynona
+
 Breathed air into the winds, and from which came the world's dependency on air
 
 Glorian
+
 Strength was needed for the Ciraelians to build and endure, Glorian would be the one to make sure this attribute was passed on and learned by the people of Cirra 
 
 Hyatti
+
 Celebration is at the core of culture, and there is always a curator for any celebration, of which Hyatti was in charge
 
 
 **Introduction**
+
 King Snapi was the first of the Ciraelians to evolve far enough to have hands and fingers.  These evolutions allowed the Ciraelians to build and grow as a society, no longer moving day to day, moment to moment without a grasp of physicality and the space around them.
 
 They knew of their existence and the world, but did not have a way to interact with this world, Snapi changed this. King Snapi gave the Ciraelians the ability to build the kingdom and now resides on the Throne of Corrus in the city of Cordova. He is not just or kind, or mean or cruel, these concepts do not exist to the Ciaelians as they have no time nor need for these concepts in the vast empty space of Cirra. Presently, you see the results of this Profectiōnem. We should however, turn back time, so that we may know how this all began.
@@ -53,4 +60,3 @@ When the Figureheads and King Snapi descended to the newly formed land, there wa
 Unfortunately, the sacrifice made by the King, created yet another mess, one less coherent than the last. King Snapi's mess was unbeknownst to all which would exist, indeed, since it did not yet exist.
 
 When looking at a clock, one does not divulge into the workings of the clock and how it produces time. The purpose of this gaze towards time is functional, and normally with the intent of, seeing what time it is. So please know that even though coherency can be found within the interworkings of all life, this coherency is but a design of the fundamental process that has been developed to perceive the entropy of the mistakes made by those deemed "holy" within this story.
-
