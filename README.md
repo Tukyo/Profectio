@@ -37,7 +37,7 @@ Fundamentals
 
 **Introduction**
 
-King Snapi was the first of the Ciraelians to evolve far enough to have hands and fingers.  These evolutions allowed the Ciraelians to build and grow as a society, no longer moving day to day, moment to moment without a grasp of physicality and the space around them.
+King Snapi was the first of the Ciraelians to evolve far enough to develop hands and fingers.  These evolutions allowed the Ciraelians to build and grow as a society, no longer moving day to day, moment to moment without a grasp of physicality and the space around them.
 
 They knew of their existence and the world, but did not have a way to interact with this world, Snapi changed this. King Snapi gave the Ciraelians the ability to build the kingdom and now resides on the Throne of Corrus in the city of Cordova. He is not just or kind, or mean or cruel, these concepts do not exist to the Ciaelians as they have no time nor need for these concepts in the vast empty space of Cirra. Presently, you see the results of this Profectiōnem. We should however, turn back time, so that we may know how this all began.
 
