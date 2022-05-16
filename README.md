@@ -6,7 +6,7 @@ Profectio is a project by Tukyo and Bunta to release a full length album with in
 > - departure
 > - journey
 
-![](/images/compilation.png)
+![QmYuk2RrTfdAZzaDYsNeYHywfoAVMofiTJFFBJdqwXcMTb](/images/compilation.png)
 
 Fundamentals
 > - Deaus - God
@@ -14,7 +14,7 @@ Fundamentals
 > - Cirra - Land
 > - Ciraelians - People of the Land (Circles)
 > - King Snapi - King of Cirra and Ruler of the Ciraelians
-> - Cordova - Capitol City (Throne of Corrus resides here)
+> - Cordova - Capitol City (The Throne of Corrus resides in Cordova.) *This is common knowledge even in the brevity of its conception.*
 
 
 **The Five Figureheads**
@@ -35,6 +35,8 @@ Fundamentals
 > - Celebration is at the core of culture, and there is always a curator for any celebration, of which Hyatti was in charge
 
 
+![InterPlanetaryFileShip](/images/stay.png)
+
 **Introduction**
 
 King Snapi was the first of the Ciraelians to evolve far enough to develop hands and fingers.  These evolutions allowed the Ciraelians to build and grow as a society, no longer moving day to day, moment to moment without a grasp of physicality and the space around them.
@@ -54,3 +56,10 @@ When the Figureheads and King Snapi descended to the newly formed land, there wa
 Unfortunately, the sacrifice made by the King, created yet another mess, one less coherent than the last. King Snapi's mess was unbeknownst to all which would exist, indeed, since it did not yet exist.
 
 When looking at a clock, one does not divulge into the workings of the clock and how it produces time. The purpose of this gaze towards time is functional, and normally with the intent of, seeing what time it is. So please know that even though coherency can be found within the interworkings of all life, this coherency is but a design of the fundamental process that has been developed to perceive the entropy of the mistakes made by those deemed "holy" within this story.
+
+Such a powerful story, naturally, gave rise to many secrets that were spread throughout the lands, a purpose for the newly formed beings to discover and enjoy. The secret lies within the hills. The plethora of beings that flowed from the bulla benne took flight, in search of these secrets. When the first was found, Hyatti requested an audience.
+
+Due to this discovery, Hyatti bestowed her presence, and when she entered the room this declaration was made: "A celebration is required, something to signify the beginning. It is only a matter of time before this becomes tradition, a reocurring evening." As Hyatti began to leave the stage, she turned, as to let out one final piece of information: "The greatest secret of all, lies within genesis, someone must seek the beginning and the answer will be revealed."
+
+![](/images/_comp.gif)
+
