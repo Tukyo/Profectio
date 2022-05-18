@@ -54,7 +54,7 @@ As each one of the figureheads descended, matter extruded from Inanis and gave l
 
 King Snapi was created as a proxy for Deaus, the first profectio. Deaus had no way to interact with what had been created, doomed to an eternally distant void that was indeterminately close, yet also boundlessly distant from Cirra. King Snapi possessed a small essence of Deaus, enough to guide the figureheads through the vast reaches of space, to the place that would be called home, Cirra. 01000100
 
-When the Figureheads and King Snapi descended to the newly formed land, there was a moment of reprise, before the Bulla Benne was created and life flowed endlessly. For this creation to come into fruition, a sacrafice was needed. This was the sole purpose of King Snapi, and why all Ciraelians have but a fraction of King Snapi's essence awithin. The version of the King that rules from the Throne of Corrus is but a shell of the descended King Snapi. Thankfully, the Figureheads are still intact and reside in proximity to the throne. 01010011
+When the Figureheads and King Snapi descended to the newly formed land, there was a moment of reprise, before the Bulla Benne was created and life flowed endlessly. For this creation to come into fruition, a sacrifice was needed. This was the sole purpose of King Snapi, and why all Ciraelians have but a fraction of King Snapi's essence within. The version of the King that rules from the Throne of Corrus is but a shell of the descended King Snapi, only a small glimmer of light still hosted within. Thankfully, the Figureheads are still intact and reside in proximity to the throne. 01010011
 
 Unfortunately, the sacrifice made by the King, created yet another mess, one less coherent than the last. King Snapi's mess was unbeknownst to all which would exist, indeed, since it did not yet exist. 01110011
 
@@ -80,7 +80,7 @@ The Great Hunt raged for almost two centuries before the Five Figureheads gather
 # **Figurehead**
 *01101101*
 
-Now that the contract was signed and consensus was in place for the rite of passage to Cordova, the Five Figureheads took their respective journey to a new place of rest. Each one creating a new concept for the Cirealians to learn, grow and evolve. You may consider these concepts, tools. The purpose of each Figurehead was to be revealed. 01010010 
+Now that the contract was signed and consensus was in place for the rite of passage to Cordova, the Five Figureheads took their respective journey to a new place of rest. Each one creating a new concept for the Ciraelians to learn, grow and evolve. You may consider these concepts, tools. The purpose of each Figurehead was to be revealed. 01010010 
 
 Maelynoch ascended directly into the heavens, creating light to see when darkness rose. Adopting many names from this display, Luna, Moon, Mael de Moon. Never to return to Cirra, this was the destiny of Maelynoch. 00110010
 
@@ -90,11 +90,11 @@ Glorian provided a will to endure for the Ciraelians. He made his way across the
 
 Hyatti returned to Naiwatha Village to partake in the spoils and company of the Ciraelians. Falling in love, creating music, frivolous gatherings. These are just some of the benefits that were gifted from Hyatti unto the Ciraelians. 00110011
 
-The final Figurehead at the Throne of Corrus was Kratis. His light was growing dim, as it had been from the beginning. This was something that did not seem fair to Kratis, as all the others brought blessigns to Cirra, and Kratis was left with only a dim light, barely enough to illuminate a cellar. 01010101
+The final Figurehead at the Throne of Corrus was Kratis. His light was growing dim, as it had been from the beginning. This was something that did not seem fair to Kratis, as all the others brought blessings to Cirra, and Kratis was left with only a dim light, barely enough to illuminate a cellar. 01010101
 
 Because of this, Kratis grew restless and when the time came for departure, the first scelus was committed. Kratis took the final remaining energy from the shell of King Snapi and left behind a husk. With this power, Kratis travelled to the Bulla Benne and dove directly into the center. Glorian was unable to stop Kratis, due to the fact that Kratis was empowered by the light of King Snapi. 01010101
 
-Kratis was immediately thrown from the vast depths of the Bulla Benne, into the sky and swept fiercly upwards by the winds produced by Wynona. This caused Kratis to be thrown into the realm above Cirra, with Maelynoch. A burst of light blanketed all of Cirra when the two Figureheads met in the outer realm. This glorius light was too great for Maelynoch to contain, and the power was absorbed by Kratis. 01010100
+Kratis was immediately thrown from the vast depths of the Bulla Benne, into the sky and swept fiercly upwards by the winds produced by Wynona. This caused Kratis to be thrown into the realm above Cirra, with Maelynoch. A burst of light blanketed all of Cirra when the two Figureheads met in the outer realm. This glorious light was too great for Maelynoch to contain, and the power was absorbed by Kratis. 01010100
 
 An ever flowing aurora was produced as the Ciraelians and the Figureheads all witnessed the true potential of Kratis in full glory. 00111000
 
@@ -104,14 +104,14 @@ With the Bulla Benne dried out, no more Ciraelians were brought into Cirra, and 
 
 Maelynoch and Kratis were now locked in eternal battle in the realm above Cirra, each blow struck on the other created yet another brilliant burst of color throughout the aurora. Glorian and Hyatti remained on Cirra, formulating a plan of coexistence, while both scheming behind the other to get the upper hand. 01000101
 
-Wynona became a guide for lost Ciraelians, as war raged between the figureheads. Ciraelians were easily caught in between and forced to pick sides, normally simply chosen by if Naiwatha Village or Nowan was home. There were many who did not want to make this decision and let the winds of Wynona sweep them into the air. Without fail, each and every Ciraelian who was carried by the winds ended up in Caranatus Pyramid. 01001110 
+Wynona became a guide for lost Ciraelians, as war raged between the figureheads. Ciraelians were easily caught in between and forced to pick sides, which was simply chosen by if Naiwatha Village or Nowan was home. There were many who did not want to make this decision and let the winds of Wynona sweep them into the air. Without fail, each and every Ciraelian who was carried by the winds ended up in Caranatus Pyramid. 01001110 
 
-With one final gust, Wynona slammed shut the doors of Caranatus and all lost Ciraelians were sealed inside. They did not fear, however, as Wynona carried each and every one of them she instilled peace, by letting them have a small glimpse into the future. An artifact, a legendary piece of art will be uncovered, and be the key to both the doors of Caranatus and the restoration of Inanis, revitalizing the Bulla Benne. 01011001
+With one final gust, Wynona slammed shut the doors of Caranatus and all lost Ciraelians were sealed inside. They did not fear, however, as Wynona carried each and every one of them she instilled peace, by letting them have a small glimpse into the future. An artifact, a legendary piece of art will be uncovered. This legendary artifact is a key to both the doors of Caranatus and the restoration of Inanis, which will revitalize the Bulla Benne. 01011001
 
 # **In Conclusion**
 *01110010*
 
-Consider this, but a synopsis of the Greater Tales of King Snapi. Hopefully as the Cirealians continue to explore, more understanding and knowledge can be siphoned from the lands. There has already been more discovered since these events, of which we can discuss briefly. 01001000
+Consider this, but a synopsis of the Greater Tales of King Snapi. Hopefully, as the Cireaelians continue to explore, more understanding and knowledge can be siphoned from the lands. There has already been more discovered since these events, of which we can discuss briefly. 01001000
 
 There was a legendary piece of art, originating from when Kratis and Maelynoch collided, forming along the aurora. This legendary piece of art is said to have spawned from the last, final shard of Inanis' power. Making this the artifact that Wynona gave a brief glimpse of. 01010010
 
@@ -120,3 +120,5 @@ There is a Ciraelian, the first to create a nomen, "Banto". Banto is a renowned 
 Find the seed for 0x7CDF65C3b15694cC0fAD458b220B21E411c5F83C - here rests the artifact known as "Profectio". 01010001
 
 _Error in data read -01100111 01000111 01110000 01011001 01110000 01011010- end of seed_
+
+![](/images/cover.png)
