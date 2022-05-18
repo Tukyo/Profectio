@@ -9,7 +9,7 @@ Profectio is a project by Tukyo and Bunta to release a full length album with in
 ![QmYuk2RrTfdAZzaDYsNeYHywfoAVMofiTJFFBJdqwXcMTb](/images/compilation.png)
 
 # Fundamentals
-# *01010001*
+*01010001*
 
 > - Deaus - God
 > - Inanis- Void created by Deaus
@@ -20,7 +20,7 @@ Profectio is a project by Tukyo and Bunta to release a full length album with in
 
 
 **The Five Figureheads**
-# *01101101*
+*01101101*
 
 | Maelynoch
 > - First Ciraelian to be blessed with sight, vision into nothing, is nothing without light
@@ -40,7 +40,7 @@ Profectio is a project by Tukyo and Bunta to release a full length album with in
 ![InterPlanetaryFileShip](/images/stay.png)
 
 # **Introduction**
-# *01001110*
+*01001110*
 
 King Snapi was the first of the Ciraelians to evolve far enough to develop hands and fingers.  These evolutions allowed the Ciraelians to build and grow as a society, no longer moving day to day, moment to moment without a grasp of physicality and the space around them. 01101101
 
@@ -67,7 +67,7 @@ Due to this discovery, Hyatti bestowed her presence, and when she entered the ro
 ![](/images/_comp.gif)
 
 # **The Great Hunt**
-# *01110011*
+*01110011*
 
 After this moment, an eruption of culture, discovery and exploration was on the horizon for the Ciraelians. Many of them, leaving the newly founded Naiwatha Village to venture onward through the vast deserts of Cirra. The next discovery was Caranatus Pyramid, or "Dearborne", as the ones who discovered it later began to call it. Within this vast pyramid were the tools needed for the Ciraelians to build and prosper. Half of these tools were taken back to Naiwatha and the other half, sent with the venturing party to continue building at a later location. This location, once discovered, would be known as "Nowan". 01010011
 
@@ -78,7 +78,7 @@ Naiwatha used their tools to expand the city, to welcome wandering Ciraelians an
 The Great Hunt raged for almost two centuries before the Five Figureheads gathered in Cordova once again, to put an end to all the violence. A contract was signed, a smart contract directly from the void of Inanis. Within this contract, a key to the seed of Cordova. This key was split in two, one placed in each respective village as a peace offering. Any Ciraelian who wished to enter the city of Cordova, must now touch both keys before entering, meaning that if either village held animosity towards any individual, they would no longer have access to the benevolence of King Snapi. 01001011
 
 # **Figurehead**
-# *01101101*
+*01101101*
 
 Now that the contract was signed and consensus was in place for the rite of passage to Cordova, the Five Figureheads took their respective journey to a new place of rest. Each one creating a new concept for the Cirealians to learn, grow and evolve. You may consider these concepts, tools. The purpose of each Figurehead was to be revealed. 01010010 
 
@@ -109,7 +109,7 @@ Wynona became a guide for lost Ciraelians, as war raged between the figureheads.
 With one final gust, Wynona slammed shut the doors of Caranatus and all lost Ciraelians were sealed inside. They did not fear, however, as Wynona carried each and every one of them she instilled peace, by letting them have a small glimpse into the future. An artifact, a legendary piece of art will be uncovered, and be the key to both the doors of Caranatus and the restoration of Inanis, revitalizing the Bulla Benne. 01011001
 
 # **In Conclusion**
-# *01110010*
+*01110010*
 
 Consider this, but a synopsis of the Greater Tales of King Snapi. Hopefully as the Cirealians continue to explore, more understanding and knowledge can be siphoned from the lands. There has already been more discovered since these events, of which we can discuss briefly. 01001000
 
