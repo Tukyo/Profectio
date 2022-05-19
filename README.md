@@ -84,7 +84,7 @@ Now that the contract was signed and consensus was in place for the rite of pass
 
 Maelynoch ascended directly into the heavens, creating light to see when darkness rose. Adopting many names from this display, Luna, Moon, Mael de Moon. Never to return to Cirra, this was the destiny of Maelynoch. 00110010
 
-Wynona took flight, around cirra numerous times. Behind her followed gusts of wind that blew the sands of the desert into whirlwinds. Her power, combined with Maelynoch, brought life unto the bodies of water encompassing Cirra. Movement was never seen among nature before this moment, as the winds carried pollen, seeds and living beings all over the lands. 00110010
+Wynona took flight, around Cirra numerous times. Behind her followed gusts of wind that blew the sands of the desert into whirlwinds. Her power, combined with Maelynoch, brought life unto the bodies of water encompassing Cirra. Movement was never seen among nature before this moment, as the winds carried pollen, seeds and living beings all over the lands. 00110010
 
 Glorian provided a will to endure for the Ciraelians. He made his way across the desert to the Bulla Benne and created structure for the vast hole, from which the Ciraelians were ever flowing. This structure formed a clear path out of the depths and into the world for the Ciraelians. Think of Glorian as a guide, to help those navigate conception into life, and all things thereafter. 01110111
 
