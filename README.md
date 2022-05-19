@@ -115,7 +115,7 @@ Consider this, but a synopsis of the Greater Tales of King Snapi. Hopefully, as 
 
 There was a legendary piece of art, originating from when Kratis and Maelynoch collided, forming along the aurora. This legendary piece of art is said to have spawned from the last, final shard of Inanis' power. Making this the artifact that Wynona gave a brief glimpse of. 01010010
 
-There is a Ciraelian, the first to create a nomen, "Banto". Banto is a renowned artifact and treasure hunter who believes that the legendary piece of art has fallen from the aurora and ended up in Cirra. If this were to be true, a new reinaissance is on the horizon for the Ciraelians. 01010110
+There is a Ciraelian, the first to create a nomen, "Banto". Banto is a renowned artifact and treasure hunter who believes that the legendary piece of art has fallen from the aurora and ended up in Cirra. If this were to be true, a new renaissance is on the horizon for the Ciraelians. 01010110
 
 Find the seed for 0x7CDF65C3b15694cC0fAD458b220B21E411c5F83C - here rests the artifact known as "Profectio". 01010001
 
