@@ -94,7 +94,7 @@ The final Figurehead at the Throne of Corrus was Kratis. His light was growing d
 
 Because of this, Kratis grew restless and when the time came for departure, the first scelus was committed. Kratis took the final remaining energy from the shell of King Snapi and left behind a husk. With this power, Kratis travelled to the Bulla Benne and dove directly into the center. Glorian was unable to stop Kratis, due to the fact that Kratis was empowered by the light of King Snapi. 01010101
 
-Kratis was immediately thrown from the vast depths of the Bulla Benne, into the sky and swept fiercly upwards by the winds produced by Wynona. This caused Kratis to be thrown into the realm above Cirra, with Maelynoch. A burst of light blanketed all of Cirra when the two Figureheads met in the outer realm. This glorious light was too great for Maelynoch to contain, and the power was absorbed by Kratis. 01010100
+Kratis was immediately thrown from the vast depths of the Bulla Benne, into the sky and swept fiercely upwards by the winds produced by Wynona. This caused Kratis to be thrown into the realm above Cirra, with Maelynoch. A burst of light blanketed all of Cirra when the two Figureheads met in the outer realm. This glorious light was too great for Maelynoch to contain, and the power was absorbed by Kratis. 01010100
 
 An ever flowing aurora was produced as the Ciraelians and the Figureheads all witnessed the true potential of Kratis in full glory. 00111000
 
